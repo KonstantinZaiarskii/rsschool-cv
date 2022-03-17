@@ -38,7 +38,7 @@
 
 ## Education
 
-   Wayup Scool
+   Wayup School
 
 ## English
 
