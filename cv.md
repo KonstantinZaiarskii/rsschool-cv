@@ -1,5 +1,3 @@
-[rsschool-cv](https://KonstantinZaiarskii.github.io/rsschool-cv/cv)
-
 # Zaiarskii Konstantin
 
 ### frontend developer
