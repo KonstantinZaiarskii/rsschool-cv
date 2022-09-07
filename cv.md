@@ -1,4 +1,4 @@
-[https://KonstantinZaiarskii.github.io/rsschool-cv/cv](rsschool-cv)
+[rsschool-cv](https://KonstantinZaiarskii.github.io/rsschool-cv/cv)
 
 # Zaiarskii Konstantin
 
@@ -47,4 +47,3 @@ I have a great desire to become a professional Frontend developer.
 English - I am currently studying(A1-B1)
 
 Russian - Native
-
