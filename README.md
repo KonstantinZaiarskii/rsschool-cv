@@ -1,3 +1,3 @@
-https://KonstantinZaiarskii.github.io/rsschool-cv/
+https://konstantinzaiarskii.github.io/rsschool-cv/
 
 
